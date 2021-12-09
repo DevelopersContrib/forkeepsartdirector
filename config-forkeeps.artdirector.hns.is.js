@@ -1,8 +1,8 @@
 var Configs = {
   widget_id: 356,	
   domain: "forkeeps.artdirector",
-  domainid: ,
-  memberid: ,
+  domainid: "",
+  memberid: "",
   title: "",
   logo: "",
   description: "",
